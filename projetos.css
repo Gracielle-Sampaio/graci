@@ -1,0 +1,13 @@
+:root{
+    --font-family-primaria: "fonts\Gidole-Regular.ttf";
+    --font-family-secundaria:"Cooper Black";
+    --cor1:#ffffff;
+    --cor2:#000000;
+    --cor3:#2C2A4A;
+    --cor4:#4F518C;
+    --cor5:#DABFFF;
+    --cor6:#E7ECEF;
+}
+body{
+    background-color:var(--cor3);
+}
